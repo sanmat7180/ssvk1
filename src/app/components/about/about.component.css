@@ -1,0 +1,16 @@
+html{
+      padding: 0%;
+      margin: 0%;
+}
+
+h1{
+text-align: center; 
+padding: 10rem;       
+text-decoration: underline;   
+color: darkgreen;
+}
+
+img{
+      height: 100vh;              
+}
+
